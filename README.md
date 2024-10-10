@@ -3,7 +3,7 @@
 
 
 
-I am currently working as a Jr Network Specialist. I already have a 3 years of experience in the network infrastructure and security domain. Through my detail-orientedness and motivation in this career path, it helped me develop the foundational knowledge in network protocols, cybersecurity principles, and risk assessments. My hands-on experience with security tools and practices enhance my skills in monitoring and securing network environments. As a team player, I am always eager to contribute in improving the organization's security posture and mitigation of risk.
+I am currently working as a Jr. Network Specialist. I already have 3 years of experience in the network infrastructure and security domain. My attention to detail and motivation in this career path have contributed to the development of my foundational knowledge in network protocols, cybersecurity principles, and risk assessments. My hands-on experience with security tools and practices enhances my skills in monitoring and securing network environments. As a team player, I am always eager to contribute to improving the organization's security posture and mitigation of risk.
 
 ## Objective
 
@@ -33,20 +33,22 @@ My journey in networking as a computer engineering student has led me to develop
 | Networking                                 |  TCP/IP, LAN/WAN, DNS, VLAN, SD-WAN,VPN, Static Routing|
 | Network Infrastructure                     | Routers, Switches, Access Points, Servers, Network-Attached Storages, CCTVs, Structured Cabling|
 | Network Security                           | Firewall Administration, Intrusion Detection Systems, VPN Configuration, Secure Network Design, Threat Intelligence, Vulnerabilities Assessment, SIEM|
-| Security Tools                             | Packet Sniffer, Network Scanner, Anti-viruses, Endpoint Detection & Response, Network Access Control,Data Encryption,Identity & Access Management, 
-                                            Privileged Access Management, Log Monitoring,|
+| Security Tools                             | Packet Sniffer, Network Scanner, Anti-viruses, Endpoint Detection & Response, Network Access Control,Data Encryption,Identity & Access Management,Privileged Access Management, Log Monitoring|
 | Virtualization                           | Virtual Machines and Docker|
 | Cloud Computing                         | Office 365, Google Workspace, BitStop Networking Services|
 | Security Frameworks & Standards            | Cybersecurity Awareness Training,CIA Triad, SOC 2,NIST Cybersecurity Framework (CSF),NIST Risk Management Framework (RMF) |
+| Operating Systems                       | Windows, Linux, macOS |
+| Programming & Scripting                  | Python,Powershell |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Security
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fortinet-white?style=for-the-badge&logo=Fortinet&labelColor=white"/>
+    <img src="https://img.shields.io/badge/SonicWall-grey?style=for-the-badge&logo=SonicWall&labelColor=white"/>
+    <img src="https://img.shields.io/badge/-Sophos-blue?&style=for-the-badge&logo=Sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sangfor-0D98BA?&style=for-the-badge&logo=Sangfor&logoColor=green&labelColor=green"/>              
 </div>
 
 ### Endpoint
